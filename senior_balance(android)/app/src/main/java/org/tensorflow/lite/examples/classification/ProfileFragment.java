@@ -26,6 +26,7 @@ public class ProfileFragment extends Fragment {
 
     public ProfileFragment() {
         // Required empty public constructor
+
     }
 
     /**
@@ -45,6 +46,8 @@ public class ProfileFragment extends Fragment {
         fragment.setArguments(args);
         return fragment;
     }
+
+
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
