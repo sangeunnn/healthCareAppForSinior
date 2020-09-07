@@ -25,18 +25,18 @@
 
 ## **위대한 균형 App 사용법**
 
-### **시작화면**
+## **시작화면**
 <img width="300" height="400" alt="login" height="400px" src="https://user-images.githubusercontent.com/48400820/92342611-4c416380-f0fc-11ea-9c27-81aad226a0d8.png">
 
 
-### **1. 회원가입**
+## **1. 회원가입**
 * ### 전화번호와 이름으로 간편하게 가입하세요
 
 <img height="400px" width="300px" alt="signuo_name" src="https://user-images.githubusercontent.com/48400820/92342620-52374480-f0fc-11ea-932b-d55cc5fc0b9c.png"> <img height="400px" width="300px" alt="signuo_phone" align="right" src="https://user-images.githubusercontent.com/48400820/92342623-52cfdb00-f0fc-11ea-9060-ac5c4aaa6946.png">
 
 
 
-### **2. 운동하기**
+## **2. 운동하기**
 <img height="400px" width="300px" alt="main" src="https://user-images.githubusercontent.com/48400820/92342617-506d8100-f0fc-11ea-8094-68988da8be76.png">
 
 * ###  4가지의 균형운동중 1가지를 선택하여 운동을 시작합니다.
@@ -46,13 +46,13 @@
 * ### 10회의 균형운동이 진행되며 가이드 영상을 보고 시작할 수 있습니다. 올바른 자세를 할 경우 운동학습이 성공적으로 종료됩니다. 
 
 
-### **3. 관리하기**
+## **3. 관리하기**
 
 <img height="400px" width="300px" alt="manage" src="https://user-images.githubusercontent.com/48400820/92342638-5bc0ac80-f0fc-11ea-8455-77ffd6cfb56c.jpeg">
 
 * ### 자신의 운동기록이 기록창에 기록되고 자신의 운동 일정을 관리할 수 있습니다.
   
-### **4. 알람설정및 프로필**
+## **4. 알람설정및 프로필**
 
 <img height="400px" width="300px" alt="progfile"  src="https://user-images.githubusercontent.com/48400820/92342619-519eae00-f0fc-11ea-9676-44639097dd71.png">
 
