@@ -25,7 +25,7 @@
 
 ## **위대한 균형 App 사용법**
 
-<img src="./Desktop/screen/login" height="100px" width="300px" >
+<img width="300" alt="login" height="400px" src="https://user-images.githubusercontent.com/48400820/92342611-4c416380-f0fc-11ea-9c27-81aad226a0d8.png">
 
 
 ### **1. 회원가입**
