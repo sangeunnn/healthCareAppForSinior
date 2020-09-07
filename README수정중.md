@@ -53,7 +53,7 @@
 ### **4. 알람설정및 프로필**
 * ### 프로필 화면에서 자신의 정보를 확인할 수 있고, 알람설정을 통해 운동시간을 알려주는 기능을 설정할 수 있습니다.
 
-<img height="400px" width="300px" alt="progfile" algin="right" src="https://user-images.githubusercontent.com/48400820/92342619-519eae00-f0fc-11ea-9676-44639097dd71.png">
+<img height="400px" width="300px" alt="progfile" align="right" src="https://user-images.githubusercontent.com/48400820/92342619-519eae00-f0fc-11ea-9676-44639097dd71.png">
 
 
 # 팀원소개
