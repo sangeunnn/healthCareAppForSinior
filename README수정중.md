@@ -37,25 +37,28 @@
 
 
 ### **2. 운동하기**
+<img height="400px" width="300px" alt="main" src="https://user-images.githubusercontent.com/48400820/92342617-506d8100-f0fc-11ea-8094-68988da8be76.png">
+
 * ###  4가지의 균형운동중 1가지를 선택하여 운동을 시작합니다.
 
-* ### 10회의 균형운동이 진행되며 가이드 영상을 보고 시작할 수 있습니다. 올바른 자세를 할 경우 운동학습이 성공적으로 종료됩니다. <img height="400px" width="300px" alt="working" align="right" src="https://user-images.githubusercontent.com/48400820/92342624-53687180-f0fc-11ea-8944-8da183235505.png">
+<img height="400px" width="300px" alt="working"  src="https://user-images.githubusercontent.com/48400820/92342624-53687180-f0fc-11ea-8944-8da183235505.png">
+
+* ### 10회의 균형운동이 진행되며 가이드 영상을 보고 시작할 수 있습니다. 올바른 자세를 할 경우 운동학습이 성공적으로 종료됩니다. 
 
 
 ### **3. 관리하기**
+
 <img height="400px" width="300px" alt="manage" src="https://user-images.githubusercontent.com/48400820/92342638-5bc0ac80-f0fc-11ea-8455-77ffd6cfb56c.jpeg">
 
 * ### 자신의 운동기록이 기록창에 기록되고 자신의 운동 일정을 관리할 수 있습니다.
-
-###  
-###  
+  
 ### **4. 알람설정및 프로필**
-###  
-###  
-<img height="400px" width="300px" alt="progfile" align="right" src="https://user-images.githubusercontent.com/48400820/92342619-519eae00-f0fc-11ea-9676-44639097dd71.png">
-### 프로필 화면에서 자신의 정보를 확인할 수 있고, 알람설정을 통해 운동시간을 알려주는 기능을 설정할 수 있습니다.
 
-### 
+<img height="400px" width="300px" alt="progfile"  src="https://user-images.githubusercontent.com/48400820/92342619-519eae00-f0fc-11ea-9676-44639097dd71.png">
+
+* ### 프로필 화면에서 자신의 정보를 확인할 수 있고, 알람설정을 통해 운동시간을 알려주는 기능을 설정할 수 있습니다.
+
+
 # 팀원소개
 ### 박상은 : 개발
 ### 역할 : 회원가입, 로그인 파이어베이스 서버 연동, 프로필 페이지 구현, 알람기능구현, teachable 머신 인용사례 조사
