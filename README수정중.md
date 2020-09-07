@@ -41,7 +41,7 @@
 
 * ### 10회의 균형운동이 진행되며 가이드 영상을 보고 시작할 수 있습니다. 올바른 자세를 할 경우 운동학습이 성공적으로 종료됩니다.
 
-<img height="400px" width="300px" alt="working" algin="right" src="https://user-images.githubusercontent.com/48400820/92342624-53687180-f0fc-11ea-8944-8da183235505.png">
+<img height="400px" width="300px" alt="working" align="right" src="https://user-images.githubusercontent.com/48400820/92342624-53687180-f0fc-11ea-8944-8da183235505.png">
 
 
 ### **3. 관리하기**
