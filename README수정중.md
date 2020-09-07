@@ -39,10 +39,6 @@
 ### **2. 운동하기**
 * ###  4가지의 균형운동중 1가지를 선택하여 운동을 시작합니다.
 
-<img height="400px" width="300px"alt="main" src="https://user-images.githubusercontent.com/48400820/92342617-506d8100-f0fc-11ea-8094-68988da8be76.png">
-
-
-
 * ### 10회의 균형운동이 진행되며 가이드 영상을 보고 시작할 수 있습니다. 올바른 자세를 할 경우 운동학습이 성공적으로 종료됩니다.
 
 <img height="400px" width="300px" alt="working" algin="right" src="https://user-images.githubusercontent.com/48400820/92342624-53687180-f0fc-11ea-8944-8da183235505.png">
